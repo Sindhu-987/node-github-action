@@ -18,4 +18,5 @@ jobs:
           node-version: '18'
 
       - name: Print Greeting
-        run: echo "Hello from @your_github_username"
+        run: echo "Hello from @Sindhu-987"
+
